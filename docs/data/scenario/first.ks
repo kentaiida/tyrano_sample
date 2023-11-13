@@ -6,7 +6,7 @@
 [freeimage layer="base"]
 
 「1限へ行け物情生」[l][r]
-[bg storage=yagami1.jpg time=500]
+[bg storage=kougi.jpg time=500]
 
 物情生は激怒しながら起きた。[l][r]
 
